@@ -8,3 +8,15 @@ Task 1:- Mobile App Signup Flow
 Using:- Figma
 
 View:- https://www.figma.com/file/bCfmHwuRa7FEG1CvYq1lli/Task-codsoft?type=design&node-id=214%3A418&mode=design&t=qZaNTa4ePOKMYEeq-1
+
+Task 2:- Email Template
+
+Using:- Figma
+
+View:- https://www.figma.com/file/bCfmHwuRa7FEG1CvYq1lli/Task-codsoft?type=design&node-id=214%3A418&mode=design&t=qZaNTa4ePOKMYEeq-1
+
+Task 3:- Restaurant menu
+
+Using:- Figma
+
+View:- https://www.figma.com/file/bCfmHwuRa7FEG1CvYq1lli/Task-codsoft?type=design&node-id=214%3A418&mode=design&t=qZaNTa4ePOKMYEeq-1
